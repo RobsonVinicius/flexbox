@@ -3,7 +3,7 @@ Projeto realizado no curso de Flexbox da Alura
 
 ## Links Importantes
 
-[Flexbox Labs](flexboxlabs.netlify.app)
+[Flexbox Labs](https://flexboxlabs.netlify.app/)
 
 
 
